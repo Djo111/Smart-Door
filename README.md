@@ -1,4 +1,5 @@
 # Smart-Door
+A door that opens automatically based on a face recognition algorithm.
 # About project # 
 this project is part of ARE's internal projects for 2021/2022.
 It consists of a door that opens automatically using face detection algorithms.
